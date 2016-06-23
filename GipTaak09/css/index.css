@@ -1,0 +1,122 @@
+header
+{
+	background-image: url("../images/header.png");
+	background-size: contain;
+	width: 100%;
+	height: 8vw;
+}
+
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 2.5rem;
+	color: #596d2c;
+}
+
+p
+{
+	text-align: center;
+	font-size: 1.0rem;
+	color: #596d2c;
+}
+
+main
+{
+	margin: 20px;
+	border: groove aqua 5px;
+}
+
+body
+{
+	background-color: black;
+}
+
+#ketelDiv
+{
+		background-image: url("../images/ketel.png");
+		background-size: contain;
+		height: 300px;
+		width: 300px;
+		bottom: 0;
+		margin-left: auto;
+		margin-right: auto;
+		left: 0;
+		right: 0;
+		position: absolute;
+		box-sizing: border-box;
+}
+
+#ketelDiv:hover
+{
+	cursor: pointer;
+	border: outset 3px #a6a6a6
+}
+
+.Menu
+{
+	border: groove #596d2c 4px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.Menu > img:hover
+{
+	cursor: pointer;
+	border: outset 3px #a6a6a6
+}
+
+.Menu > img
+{
+	box-sizing: border-box;
+	margin: 2vw;
+	display: block;
+	height: 150px;
+	width: 150px;
+}
+#LinkerMenu
+{
+	margin-left: 15%;
+	float: left;
+}
+
+
+#RechterMenu
+{
+	margin-right: 15%;
+	float: right;
+}
+
+
+#gooiItem
+{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 100px;
+	width: 100px;
+	height: 100px;
+}
+
+#gooiItem2
+{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 100px;
+	right: 0;
+	width: 100px;
+	height: 100px;
+}
+
+#uitkomstItem
+{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left:0;
+	right:0;
+	width: 100px;
+	height: 100px;
+}

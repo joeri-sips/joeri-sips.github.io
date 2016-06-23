@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takens on Sips Joeri - Gip site</title>
+    <link>http://joeri-sips.github.io/taken/</link>
+    <description>Recent content in Takens on Sips Joeri - Gip site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://joeri-sips.github.io/taken/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Trello sessies</title>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</guid>
+      <description>
+
+&lt;h2 id=&#34;it-tapa:4a768886d0240b11f9ea18ceffcb8e46&#34;&gt;IT-tapa&lt;/h2&gt;
+
+&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met &lt;a class=&#34;hugo&#34; href=&#34;http://bert-gysen.github.io/&#34; target=&#34; blank&#34;&gt;Bert Gysen&lt;/a&gt; gedaan. Wij hebben samen gekozen om &lt;a class=&#34;hugo&#34; href=&#34;http://trello.com/&#34; target=&#34; blank&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor jezelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=15menfb&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i68.tinypic.com/15menfb.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://nl.tinypic.com?ref=10x4kk3&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i65.tinypic.com/10x4kk3.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Case study</title>
+      <link>http://joeri-sips.github.io/taken/CaseStudy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/CaseStudy/</guid>
+      <description>
+
+&lt;h1 id=&#34;qf-test-case-study:012002a4ccf4c08711ada36cec8a571e&#34;&gt;QF-Test case study&lt;/h1&gt;
+
+&lt;p&gt;Ik ga de tool QF-Test bespreken, dit is ook wat ik en wout hebben gebruikt tijdens onze 2 weken stage. Het is een tool om testen te programmeren voor je applicaties. Het werd gebruikt door de afdeling Software Development. Get N.V. ontwikkelt een webapplicatie genaamd Prime Visit die ertoe dient de aanwezigheid en planning van het personeel in te organiseren. Hiervoor schrijven ze testen die dan snachts blijven draaien om alle foutjes op te sporen.&lt;/p&gt;
+
+&lt;h2 id=&#34;hoe-maak-je-een-test-met-qf-test:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Hoe maak je een test met QF-Test:&lt;/h2&gt;
+
+&lt;p&gt;De tool herkend automatisch objecten in je applicatie zoals knoppen of labels, je laat dan zien aan de tool wat er moet gebeuren met die objecten (bv; je klikt door tot het instellingen scherm). Ook kan je gebruik maken van scriptjes in de programmeertalen groovy of jython om invoer mee te creëren voor tekstvakken.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/QFTest.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;(Dit is een screenshot met links de QF-Test tool waar meerderen procedures openstaan met acties die rechts op de webapplicatie Prime Visit worden uitgevoerd)&lt;/p&gt;
+
+&lt;h2 id=&#34;info:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Info:&lt;/h2&gt;
+
+&lt;p&gt;De tool is gemaakt door een bedrijf genaamd QFS (www.qfs.de) en is ook vooral bedoeld voor andere bedrijven en niet meteen voor particulieren. Dit kan je zien aan de iets wat duurdere prijs namelijk
+€1 995,00. Ze hebben deze tool dan ook niet gekozen voor de prijs maar voor de betrouwbaarheid en de om dat het compatibel is met het platform waarop hun web-applicatie draait (captain casa). QF-Test ondersteunt ook veel meer platformen hieronder een opsomming hiervan:&lt;/p&gt;
+
+&lt;p&gt;Java Swing, JavaFX, AWT, SWT, Eclipse, RCP, Applets, Java Web Start, ULC, CaptainCasa.
+Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS, ICEfaces, jQuery UI, jQuery EasyUI, PrimeFaces, Qooxdoo, RAP, RichFaces, Vaadin, ZK).&lt;/p&gt;
+
+&lt;h2 id=&#34;wat-wij-met-de-tool-hebben-gedaan:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Wat wij met de tool hebben gedaan:&lt;/h2&gt;
+
+&lt;p&gt;Tijdens de 2 weken stage hebben ik en wout testen geschreven voor Prime Visit waaronder tests om in te loggen, groepen aanmaken, leveranciers aanmaken, leveranciers aanmelden, etc. Het werk dat wij hiermee hebben verricht is ook echt van nut voor het bedrijf want ze laten de geautomatiseerde tests schrijven door tijdelijk werkkrachten zoals jobstudenten en ook stagiairs. Zo kunnen hun vaste informatici zich blijven focussen op de web-applicatie en moeten het development team niet ongesplitst worden om tests te schrijven.&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Database</title>
+      <link>http://joeri-sips.github.io/taken/Database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/Database/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/Database.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;create schema gip_taak_08_SipsJoeri;
+ use gip_taak_08_SipsJoeri;
+
+ create table UserAccount(
+	id int not null auto_increment primary key,
+    naam text not null,
+    email text not null,
+    age int
+    );
+
+ create table Photo(
+	id int not null auto_increment primary key,
+	user_id int not null,
+	album_id int not null,
+  photo_naam,
+  author text,
+    likes int
+);
+ create table Album(
+	id int not null auto_increment primary key,
+	user_id int ,
+    album_naam text
+);
+
+
+
+ insert into UserAccount(id, naam, email, age)
+values
+(1, &amp;quot;Joeri&amp;quot;, &amp;quot;Joeri.sips@immalle.be&amp;quot;, &amp;quot;17&amp;quot;),
+(2, &amp;quot;Maan&amp;quot;, &amp;quot;manneke.jaan@hotmail.com&amp;quot;, &amp;quot;100&amp;quot;);
+
+ insert into Photo(id, user_id, album_id, photo_naam, author, likes)
+values
+(1, 1, 1, &amp;quot;boom&amp;quot;, &amp;quot;joeri&amp;quot;,7),
+(2, 2, 1, &amp;quot;plant&amp;quot;, &amp;quot;maan&amp;quot;,20),
+(3, 2, 1, &amp;quot;tak&amp;quot;, &amp;quot;maan&amp;quot;, 46);
+
+insert into Album(id, user_id, album_naam)
+values
+(1,1, &amp;quot;Natuur&amp;quot;),
+
+
+SELECT UserAccount.naam, UserAccount.email, UserAccount.age,
+photo.photo_naam, photo.author, photo.likes, Album.album_naam
+FROM UserAccount JOIN Photo
+ON UserAccount.id = Photo.user_id
+INNER JOIN Album ON(Photo.album_id = Album.id);
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Directory structuur en workflows</title>
+      <link>http://joeri-sips.github.io/taken/WorkflowsCMS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/WorkflowsCMS/</guid>
+      <description>
+
+&lt;p&gt;&lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;directory-stuctuur:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;Directory stuctuur&lt;/h1&gt;
+
+&lt;h2 id=&#34;content:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;content&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In de content map staan mijn posts verdeeld over 2 catgorieën: stagetaken en taken.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;layout:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;layout&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hier staan de HTML files van de verschillende delen van mijn website.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;static:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;static&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hierin vind je de css en de javascript bestanden voor de layout en de functionaliteit van de site.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;config:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;config&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hier kan je de tittel en de url van je site aanpassen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;workflows:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;Workflows&lt;/h1&gt;
+
+&lt;h2 id=&#34;de-start:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;De start&lt;/h2&gt;
+
+&lt;p&gt;Om met Hugo te starten moet je een aantal dingen in orde brengen zoals je pad instellen en een paar lijntjes typen in de comandprompt, dit is al een struikelblok voor mensen die geen iformatica studeren of hebben gestudeerd.
+Daar tegenover moet je om een Wordpress website te maken enkel de simpele stappen volgen die je worden opgelegd en je hebt geen andere software nodig. Maar net omdat het maken van een site met Wordpress zo gemakkelijk is
+kan je het niet 100% personaliseren.&lt;/p&gt;
+
+&lt;h2 id=&#34;posts:3fa7dd089e78336c36219b98ebf899f2&#34;&gt;Posts&lt;/h2&gt;
+
+&lt;p&gt;Op Hugo kan je vrijwel alles, alleen is er het probleem dat je moet weten hoe en bij de meeste dingen weet ik daarop het antwoord momenteel nog niet zoals: &amp;ldquo;hoe voeg je een afbeelding toe?&amp;rdquo;.
+Eenmaal je uiteindelijk de basis van je hugo site hebt is het toevoegen van posts net zo gemakkelijk als op Wordpress.&lt;/p&gt;
+
+&lt;p&gt;Na gewerkt te hebben met hugo zou ik liever gebruik maken van Wordpress omwille van de volgende redenen;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;het legt zichzelf uit,&lt;/li&gt;
+&lt;li&gt;geen extra software nodig,&lt;/li&gt;
+&lt;li&gt;vanaf dat je de website maakt staat hij al online.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Huisstijl</title>
+      <link>http://joeri-sips.github.io/taken/Huisstijl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/Huisstijl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/Huisstijl.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;De kleuren van GET zijn rood zwart en witte achtergronden. Meestal staat er dan “time &amp;amp; security” bij maar op get-producten zoals tassen kauwgom en pennen die ze gratis aan klanten meegeven word het woord “get” met leuke woordspelingen afgebeeld&lt;/p&gt;
+
+&lt;p&gt;In het bedrijf vind je het logo op de badge-scanners, de standaard bureaubladen en iedereen heeft ook rode of grijze truien met het logo maar die zijn niet verplicht.&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>IT is life</title>
+      <link>http://joeri-sips.github.io/taken/IT-autobiography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-autobiography/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Introduction:&lt;/h2&gt;
+
+&lt;p&gt;My name is Joeri Sips, I am 17 years old and I’m an IT management student at the Immaculata institute in Oostmalle. In my free time I play a game called: “Destiny”in which I was the number one Belgian player last schoolyear but that’s no longer the case since I took a break from the game during the vacation and the other players caught up. And this is an autobiography about what IT was, is and will be in my life.&lt;/p&gt;
+
+&lt;h2 id=&#34;first-experiences:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;First experiences:&lt;/h2&gt;
+
+&lt;p&gt;I think my interest in IT comes from my mother, she is working as a network manager nowadays.
+That has been her work for as long as I can remember and longer; she even tells me stories of giving workshops on how to use a mouse. As I was learning mathematics when I was 7 years old, she made a program for me on which I had to solve multiplications and afterwards it checked my work and showed me if my answers were wrong or right. The first sites I used to visit were sites that had fun and small browsergames like Tetris variations or Pin Ball. I sometimes still visit one of those sites called “funnygames.nl” to play Warfare 1917 which used to be my favorite game.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-now:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT now:&lt;/h2&gt;
+
+&lt;p&gt;Two years ago I started playing a game called DUST 514 and it that game I met people from the USA, Sweden, Germany and South Africa who are still my friends today. At home I only use the computer 2 hours a day on average and only for school because at school we use them all the time. At home I use my Playstation and my mobile phone most of the time and a while ago my microphone for the playstation broke but I got my phone to work as mic which is cool right? Especially because no one I know knows how to do that except me. Last year I made a small browser game together with two friends and I see that as my biggest achievement thus far even though its just a “click game” and nothing too complicated. I’m just simply baffled with all you can do with IT and I like doing all you can do with it. That’s why I’m an IT student and because of that I’ve spent a lot of time with programs like Word and Excel and when I see other people use it I get nervous ifthey don’t use it in the most efficient and fast way. I like to call myself a power-user because a power-user is someone who knows all the shortcuts and the functionality of a computer and I match those qualities.&lt;/p&gt;
+
+&lt;h2 id=&#34;future-in-it:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Future in IT:&lt;/h2&gt;
+
+&lt;p&gt;In the future I’d like to make a living of IT as a programmer and create things that will be used by a lot of people like games. Also I would like to get more hardware because I enjoy playing around with cables and seeing what I can do with different hardware and because boys sure like their toys.&lt;/p&gt;
+
+&lt;p&gt;If IT wasn’t around now I’d probably be building camps and acting like I am a knight but because it is around it is a big part in my life; it wakes me up, it tells me what to do for school and it even finds me new friends .So I am thankful that I grew up recently and not 100 years ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=208v521&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i66.tinypic.com/208v521.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>IT-profile</title>
+      <link>http://joeri-sips.github.io/taken/IT-profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-profile/</guid>
+      <description>&lt;p&gt;Hier een overzicht van &amp;ldquo;IT-skills&amp;rdquo; die ik op het immaculata instituut heb aangeleerd:&lt;/p&gt;
+
+&lt;p&gt;HTML:&lt;/p&gt;
+
+&lt;progress value=&#34;70&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;CSS:&lt;/p&gt;
+
+&lt;progress value=&#34;70&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;Javascript:&lt;/p&gt;
+
+&lt;progress value=&#34;65&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;C#:&lt;/p&gt;
+
+&lt;progress value=&#34;60&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;PHP:&lt;/p&gt;
+
+&lt;progress value=&#34;55&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Javascript Applicatie</title>
+      <link>http://joeri-sips.github.io/taken/JavascriptApp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/JavascriptApp/</guid>
+      <description>&lt;p&gt;In mijn &lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt; ga je uit verschillende materialen telkens 1 kiezen en aan duiden of je het afkoelt of opwarmt waarop je het resultaat ziet. Vb. : Water, afkoelen = ijs. Dit wordt dan opgevrolijkt d.m.v. animaties en foto’s. Momenteel doe ik de animaties gewoon met de javascript library omdat dat momenteel al volstaat.&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Pour la FAQ au sujet de Trello, cliquez ici</title>
+      <link>http://joeri-sips.github.io/taken/FoireAuxQuestions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/FoireAuxQuestions/</guid>
+      <description>&lt;p&gt;J’ai presenté l’outil “Trello” aux enseignants et en réalisant cette présentation j’ai trouvé six questions courantes.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;On peut enlever un groupe?   (un groupe = een groep om boards in te sharen)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pas encore.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On peut changer une liste de contrôle dans une carte?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, vous devez une liste de contrôle et cliquer sur “Convert to card”.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Est-ce qu’il y a une limite de téléchargement?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, 10 mégaoctet par fichier.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On peut enlever un fichier?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Non, vous pouvez seulement archiver les fichiers.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Est-ce qu’il y a des raccourcis?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, vous pouvez consulter le site “trello.com/shortcuts” pour une liste complète des raccourcis.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Review of a software tool in the training company: GET N.V.</title>
+      <link>http://joeri-sips.github.io/taken/Review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/Review/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I will be reviewing the QF-Test tool, I used this tool during my 2 weeks of training at GET NV. The tool is great at making tests for applications you have made. It was used by the Software Development department.
+They used it to make tests for their web application called “Prime Visit”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s made by a German company called “QFS” which stands for Quality First Software. The tool is meant for making tests for Java and Web-applications. There are other tools which do the same thing like TestComplete, Sahi, Selenium,&amp;hellip; It works by recognizing buttons and labels on your app and documenting where to click and when, then you can automate it to run these tests over and over again to find bugs and glitches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/QFTest.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(this is a screenshot of the QF-Test tool in action, on the left you see all the procedures of a test case which is running on the application on the right side)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am impressed by the scale of the tool, it supports many kinds of applications and programming languages. It is easy to learn how to make tests but you can also dig deeper into QF-Test to make more advanced tests which use scripts to input different data every time. What I also like is that you can add structure to your tests with folders and different test cases. A plus to the tool is that when you run your test you can watch the tool move your mouse and type in words on your application (I had lots of fun watching it do that during my internship). The worst thing about the tool is that it’s an expensive tool and it’s mainly meant to be for companies which explains the price of almost € 2,000.
+I still think it’s a must have for software developers to automatically test their applications.&lt;/p&gt;
+
+&lt;p&gt;The online review at &lt;a href=&#34;http://qatestingtools.com/qfs/qftest&#34;&gt;http://qatestingtools.com/qfs/qftest&lt;/a&gt; does a very good job at explaining what QF-Test is. It comes with a price chart, specifications and video tutorials. It has a very in-depth list of advantages which is useful for developers because it lists all the program languages and different kinds of applications it supports. I agree with the list of advantages and the information the review has on the price is the same as on the QF-Test site.&lt;/p&gt;
+
+&lt;p&gt;Despite the expensive price, the tool is brilliant at what it’s made for which is making tests for your applications. And it definitely succeeds at being user friendly and able to work with all kinds of applications and programming languages. I absolutely recommend it to other companies which develop software to run automated tests all night to point out all the little and big bugs and glitches.&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Trello Instructievideo</title>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</guid>
+      <description>&lt;p&gt;Nederlandse Instructievideo:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;English instructionvideo:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://joeri-sips.github.io/taken/ReportagePhotos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/ReportagePhotos/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/857b9730da/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;a title=&#34;Un reportage photos&#34; href=&#34;https://www.haikudeck.com/p/857b9730da&#34;&gt;Un reportage photos&lt;/a&gt; - Créé avec Haiku Deck.;&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>stageverslagen</title>
+      <link>http://joeri-sips.github.io/taken/stageverslagen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/stageverslagen/</guid>
+      <description>
+
+&lt;h2 id=&#34;verslag-11-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 11-01&lt;/h2&gt;
+
+&lt;p&gt;Om da dag te beginnen heeft Matthias ons eerst een korte rondleiding gegeven. Daarna heeft hij ons op zijn bureau wat uitleg gegeven over reguliere expressies omdat we dit zullen nodig hebben om onze testen te schrijven. Dan mochten we zelf aan de slag met de QF-Test tool. Onze opdracht was om lege velden te vullen met testgegevens. Alles ging vlot behalve het laatste uur waren we aan het sukkelen met de IF-syntax.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-12-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 12-01&lt;/h2&gt;
+
+&lt;p&gt;Gisteren zaten we vast aan een if, we kregen dit niet voor vijf uur opgelost dus dit moesten we deze morgen als eerste aanpakken. Na een dik halfuur vonden dan eindelijk de oplossing en vanaf dan ging het vrij vlot tot we een error(modal dialog) kregen die we niet konden oplossen. Wim zei ons dat we dat stukje mochten overslaan en beginnen aan het maken van groepen. Dit ging ook wel vlot, hier hadden geen problemen mee. Morgen moeten we het stukje van de groepen nog afwerken en verfijnen. Dan kunnen we eventueel aan onze oefeningen van reguliere expressies beginnen.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-13-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 13-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben aan de test van CreateGroups verder gewerkt. Eerst moesten we nog kleine details aanpassen, dan hebben we al onze code overzichtelijk gesorteerd. Dan hebben we nog een probleem in de test van CreateFreeFields opgelost, dat was de modal dialog error van gisteren. Nu zijn ook onze eerste twee testen zo goed als afgewerkt. Morgen zullen we waarschijnlijk een nieuwe opdracht krijgen van Wim of we kunnen ook aan de reguliere expressies werken want daar hadden we vandaag geen tijd voor.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-14-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 14-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we onze twee grote testen(CreateFreeFields en CreateGroups) afgewerkt. Dan zijn we begonnen aan de taak over reguliere expressies, de eerste oefeningen gingen allemaal heel vlot en we hadden alles ook van de eerste keer juist. Alleen met de laatste oefening hadden we veel last, we waren vergeten dat als je een groep maakt deze automatisch wordt weggeschreven. Nadat we het antwoord hadden gevonden met hulp van Matthias heeft Wim ons een opdracht gegeven om de lijst van bezoekers aan te vullen, maar dan bleek dat deze al voorgemaakt was. Nu zijn we bezig met het met een test te schrijven die bezoeken aanmaakt en daar gaan we ook morgen aan verder werken.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-15-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;verslag 15-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we verder gewerkt aan de test om bezoeken aan te vullen(CreateVisits). Deze test was gelijkaardig op te lossen aan de twee tests die we al hadden geschreven. Het enige verschil was dat je voor deze test een script nodig had om de input van een uur gelijk te stellen aan de huidige tijd. We hebben geprobeerd om dit zelf te schrijven maar dit is ons dan niet gelukt. Wim heeft ons het script gegeven, we hebben hier dan wat mee gespeeld om nog andere scriptjes te schrijven die hierop gebaseerd waren en die de huidige tijd plus vijf dagen returned. Maandag gaan we ook nog een script schrijven dat hetzelfde doet maar dan me&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-18-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 18-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag hebben we een nieuwe grote opdracht gekregen. We moesten met de tweede applicatie(PrimeVisit) aan het werk. Onze opdracht was om bezoeken te simuleren in opzicht van een klant of bezoeker, dit ging allemaal vlot en we hebben hier geen grote problemen ondervonden. Daarna moesten we terug met PrimeTime aan het werk. We moesten de VisitorFields vullen met voorgemaakte gegevens.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-19-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 19-01&lt;/h2&gt;
+
+&lt;p&gt;Gisteren waren we nog maar net begonnen aan het vullen van de bezoekers velden dus we konden hier direct aan verder werken. Dit was wel een grote test. We kregen een aantal keer een error dat er een knop niet gevonden kon worden. We dachten eerst dat dit aan ons lag maar toch kregen we het niet opgelost en dus vroegen we hulp Wim kon hier ook geen oplossing voor vinden. Later bleek dan dat het een fout was in QF-Test we konden dus niets anders doen dan het gewoon negeren.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-20-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 20-01&lt;/h2&gt;
+
+&lt;p&gt;Vandaag zijn we begonnen met het afwerken van onze test van vorige dagen, hier hebben we geen problemen meer mee ondervonden. In de namiddag kregen we de opdracht om leveringen en bezoeken te simuleren. Hierbij moesten we het veld van een datum vullen maar we moesten zorgen dat die datum altijd gelijk bleef aan de huidige datum. Dit moesten we dus met een groovy script doen maar we wisten niet echt hoe we hieraan moesten beginnen. We hebben veel output gekregen maar nooit echt degene die we zochten dus hier moeten we morgen zeker en vast eerst mee voort gaan.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-21-01:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 21-01&lt;/h2&gt;
+
+&lt;p&gt;We hebben vandaag nog langen zitten zwoegen aan ons script maar uiteindeijk is het ons dan toch gelukt. In de namiddag moesten we een test schrijven die de gebruiker vanzelf uitlogged(UserLogout) hier hadden we geen problemen mee en dan hebben we om de dag af te sluiten al de voorheen gemaakte testen geordend en een toepasselijke naam gegeven.&lt;/p&gt;
+
+&lt;h2 id=&#34;verslag-22-02:6e964a005ddf767fee4da25b55b5638a&#34;&gt;Verslag 22-02&lt;/h2&gt;
+
+&lt;p&gt;Vandaag was de laatste dag en we kregen vanmorgen te horen dat Matthias graag zou hebben dat we een kleine presentatie deden over de voorbije twee weken. Om te laten zien wat we allemaal gedaan hadden in die twee weken en hoe het voor ons verlopen was. We zijn begonnen met het afwerken van alle testen, ook hebben we hier en daar nog een detail aangepast. Daarna zijn we direct begonnen aan onze presentatie die we dan in de namiddag moesten houden voor een paar leden van het GET N.V-team.&lt;/p&gt;
+</description>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It Tapa on Sips Joeri - Gip site</title>
+    <link>http://joeri-sips.github.io/categories/it-tapa/</link>
+    <description>Recent content in It Tapa on Sips Joeri - Gip site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://joeri-sips.github.io/categories/it-tapa/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Trello sessies</title>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</guid>
+      <description>
+
+&lt;h2 id=&#34;it-tapa:4a768886d0240b11f9ea18ceffcb8e46&#34;&gt;IT-tapa&lt;/h2&gt;
+
+&lt;p&gt;Ik heb mijn IT-tapa presentatie samen met &lt;a class=&#34;hugo&#34; href=&#34;http://bert-gysen.github.io/&#34; target=&#34; blank&#34;&gt;Bert Gysen&lt;/a&gt; gedaan. Wij hebben samen gekozen om &lt;a class=&#34;hugo&#34; href=&#34;http://trello.com/&#34; target=&#34; blank&#34;&gt;Trello&lt;/a&gt; als ons onderwerp te nemen. Trello is een online tool om takenlijsten mee te maken. Wij zijn vorig jaar voor het eerst in contact gekomen met Trello en vonden het een handige tool om voor jezelf de takenlijst te maken die het best bij jou past.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=15menfb&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i68.tinypic.com/15menfb.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://nl.tinypic.com?ref=10x4kk3&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i65.tinypic.com/10x4kk3.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Pour la FAQ au sujet de Trello, cliquez ici</title>
+      <link>http://joeri-sips.github.io/taken/FoireAuxQuestions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/FoireAuxQuestions/</guid>
+      <description>&lt;p&gt;J’ai presenté l’outil “Trello” aux enseignants et en réalisant cette présentation j’ai trouvé six questions courantes.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;On peut enlever un groupe?   (un groupe = een groep om boards in te sharen)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pas encore.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On peut changer une liste de contrôle dans une carte?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, vous devez une liste de contrôle et cliquer sur “Convert to card”.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Est-ce qu’il y a une limite de téléchargement?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, 10 mégaoctet par fichier.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On peut enlever un fichier?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Non, vous pouvez seulement archiver les fichiers.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Est-ce qu’il y a des raccourcis?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oui, vous pouvez consulter le site “trello.com/shortcuts” pour une liste complète des raccourcis.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Trello Instructievideo</title>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</guid>
+      <description>&lt;p&gt;Nederlandse Instructievideo:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;English instructionvideo:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+
+  </channel>
+</rss>
